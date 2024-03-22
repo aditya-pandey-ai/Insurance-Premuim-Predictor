@@ -1,0 +1,31 @@
+City,Area,Diseases/Syndromes,Death/Infected,2012,2013,2014,2015,2016,2017,2018,2019
+Pune,Swargate,Acute Diarrhoeal Disease   (including Gastro),Infected,9380,7804,1645,1842,1117,575,527,849
+Pune,Kothrud,Bacillary Dysentery,Infected,89,59,156,139,29,26,32,23
+Pune,Dhanakwadi,Viral Hepatitis,Infected,48,113,131,139,205,145,126,203
+Pune,Pimpri-Chinchwad,Enteric Fever ,Infected,39,75,138,129,200,166,70,86
+Pune,Hadapsar,Malaria,Infected,94,80,47,22,14,9,2,0
+Pune,Magarpatta,Dengue / DHF / DSS (Suspected),Infected,15,87,401,1259,3049,6390,2943,6064
+Pune,Kothrud,Chikungunya,Infected,29,8,3,66,2481,951,378,741
+Pune,Dhanakwadi,Acute Encephalitis Syndrome ( J E),Infected,12,41,33,0,1,0,0,0
+Pune,Swargate,Meningitis,Infected,9,5,18,0,0,1,0,0
+Pune,Pimpri-Chinchwad,Measles,Infected,7,9,36,35,21,36,5,1
+Pune,Magarpatta,Diphtheria,Infected,2,2,0,0,0,0,0,1
+Pune,Hadapsar,Pertussis,Infected,1,2,0,0,0,0,0,0
+Pune,Sangamwadi,Chicken Pox,Infected,8,18,29,12,38,29,2,1
+Pune,Dhanakwadi,Fever of Unknown Origin      [ PUO ] ,Infected,11251,13597,23615,1837,943,992,973,816
+Pune,Mhada Colony,Acute Respiratory Infection [ ARI ] / Influenza Like illness [ ILI ] ,Infected,7621,14341,18182,6601,3709,2973,592,613
+Pune,Swargate,Pneumonia,Infected,93,302,201,108,5,19,2,44
+Pune,Parvati,Leptospirosis,Infected,0,3,6,1,4,14,5,47
+Pune,Pimpri-Chinchwad,Acute Flaccid Paralysis  < 15 Years of Age ,Infected,4,8,5,0,0,2,0,0
+Pune,Sangamwadi,Dog bite,Infected,565,557,727,18567,17959,10340,12391,9972
+Pune,Magarpatta,Snake bite,Infected,11,13,0,0,0,0,0,0
+Pune,Koregaon Park,Any other State Specific Disease [ Specify ] ,Infected,153,132,236,22,11,12,15,21
+Pune,Aundh,Unusual Syndromes NOT Captured Abore  [ Specify clinical diagnosis] ,Infected,1101,1532,2991,1189,1011,556,415,621
+Pune,Hadapsar,Total New OPD attendance [ Not to be filled up when data collected for indoor cases ] ,Infected,85231,102254,202896,405706,771288,901627,110576,124613
+Pune,Parvati,Cholera ,Infected,7,22,7,1,10,1,0,6
+Pune,Baner,Influenza H1N1 ,Infected,21,730,275,1126,29,703,592,175
+Pune,Parvati,Dysentry ,Infected,565,437,642,440,543,346,253,424
+Pune,NIBM road,Rabies (Addmission),Infected,23,24,29,18,23,12,17,19
+Pune,Kharadi, Confirmed Dengue / DHF / DSS,Infected,87,554,690,399,639,1691,682,1407
+Pune,Sangamwadi,Dengue,Deaths,6,5,10,1,1,0,0,0
+Pune,Magarpatta,Influenza H1N1 ,Deaths,41,46,11,153,10,148,138,51
